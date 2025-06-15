@@ -1,14 +1,14 @@
 # 🎮 Hangman Game (Python)
 
 A beginner-friendly **command-line Hangman game** built with Python.  
-Guess the hidden word one letter at a time — you have **10 attempts** to save the hangman!
+Guess the hidden word one letter at a time — you have **7 attempts** to save the hangman!
 
 ---
 
 ## ✨ Features
 
 ✅ Random word selection from a predefined list  
-✅ 10 attempts to guess the word  
+✅ 7 attempts to guess the word  
 ✅ ASCII art shows hangman progress  
 ✅ Validates input (only single alphabet letters allowed)  
 ✅ Prevents duplicate guesses  
